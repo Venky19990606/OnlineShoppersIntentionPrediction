@@ -12,9 +12,7 @@ This project predicts online shoppers' purchase intentions using machine learnin
 4. [Usage](#usage)
 5. [Models Implemented](#models-implemented)
 6. [Evaluation Metrics](#evaluation-metrics)
-7. [Visualizations](#visualizations)
-8. [Results](#results)
-9. [License](#license)
+
 
 ---
 
